@@ -1,0 +1,342 @@
+{
+ "shuffler": {
+  "ball": [
+   0.0704,
+   0.0,
+   0.6005
+  ],
+  "impactFrame": 63.112,
+  "topFrame": 49,
+  "finishFrame": 98,
+  "frames": 147,
+  "fps": 60,
+  "take": "64_01",
+  "clubLength": 0.703,
+  "style": "chibi",
+  "height": 1.435,
+  "stand": true
+ },
+ "mcilboy": {
+  "ball": [
+   0.0286,
+   0.0,
+   0.5558
+  ],
+  "impactFrame": 63.12,
+  "topFrame": 49,
+  "finishFrame": 93,
+  "frames": 142,
+  "fps": 60,
+  "take": "64_05",
+  "clubLength": 0.675,
+  "style": "chibi",
+  "height": 1.365,
+  "stand": true
+ },
+ "youngster": {
+  "ball": [
+   0.0789,
+   0.0,
+   0.598
+  ],
+  "impactFrame": 62.886,
+  "topFrame": 49,
+  "finishFrame": 97,
+  "frames": 146,
+  "fps": 60,
+  "take": "64_06",
+  "clubLength": 0.736,
+  "style": "chibi",
+  "height": 1.484,
+  "stand": true
+ },
+ "fitzpatch": {
+  "ball": [
+   0.0403,
+   0.0,
+   0.5764
+  ],
+  "impactFrame": 62.912,
+  "topFrame": 49,
+  "finishFrame": 97,
+  "frames": 146,
+  "fps": 60,
+  "take": "64_07",
+  "clubLength": 0.685,
+  "style": "chibi",
+  "height": 1.4,
+  "stand": true
+ },
+ "windy": {
+  "ball": [
+   0.0545,
+   0.0,
+   0.5829
+  ],
+  "impactFrame": 63.016,
+  "topFrame": 49,
+  "finishFrame": 96,
+  "frames": 145,
+  "fps": 60,
+  "take": "64_08",
+  "clubLength": 0.706,
+  "style": "chibi",
+  "height": 1.435,
+  "stand": true
+ },
+ "hendly": {
+  "ball": [
+   0.029,
+   0.0,
+   0.5658
+  ],
+  "impactFrame": 62.842,
+  "topFrame": 49,
+  "finishFrame": 95,
+  "frames": 143,
+  "fps": 60,
+  "take": "64_09",
+  "clubLength": 0.687,
+  "style": "chibi",
+  "height": 1.4,
+  "stand": true
+ },
+ "gotterupp": {
+  "ball": [
+   0.0154,
+   0.0,
+   0.6012
+  ],
+  "impactFrame": 62.941,
+  "topFrame": 49,
+  "finishFrame": 93,
+  "frames": 141,
+  "fps": 60,
+  "take": "64_10",
+  "clubLength": 0.719,
+  "style": "chibi",
+  "height": 1.435,
+  "stand": true
+ },
+ "burnz": {
+  "ball": [
+   0.0695,
+   0.0,
+   0.5867
+  ],
+  "impactFrame": 63.113,
+  "topFrame": 49,
+  "finishFrame": 98,
+  "frames": 147,
+  "fps": 60,
+  "take": "64_01",
+  "clubLength": 0.686,
+  "style": "chibi",
+  "height": 1.4,
+  "stand": true
+ },
+ "fleetfoot": {
+  "ball": [
+   0.024,
+   0.0,
+   0.5706
+  ],
+  "impactFrame": 63.12,
+  "topFrame": 49,
+  "finishFrame": 93,
+  "frames": 142,
+  "fps": 60,
+  "take": "64_05",
+  "clubLength": 0.691,
+  "style": "chibi",
+  "height": 1.4,
+  "stand": true
+ },
+ "shuffleay": {
+  "ball": [
+   0.0768,
+   0.0,
+   0.5715
+  ],
+  "impactFrame": 62.887,
+  "topFrame": 49,
+  "finishFrame": 97,
+  "frames": 146,
+  "fps": 60,
+  "take": "64_06",
+  "clubLength": 0.7,
+  "style": "chibi",
+  "height": 1.414,
+  "stand": true
+ },
+ "chorda": {
+  "ball": [
+   0.0392,
+   0.0,
+   0.6061
+  ],
+  "impactFrame": 62.959,
+  "topFrame": 49,
+  "finishFrame": 97,
+  "frames": 146,
+  "fps": 60,
+  "take": "64_07",
+  "clubLength": 0.728,
+  "style": "chibi",
+  "height": 1.435,
+  "stand": true
+ },
+ "titicool": {
+  "ball": [
+   0.0535,
+   0.0,
+   0.57
+  ],
+  "impactFrame": 63.067,
+  "topFrame": 49,
+  "finishFrame": 96,
+  "frames": 145,
+  "fps": 60,
+  "take": "64_08",
+  "clubLength": 0.693,
+  "style": "chibi",
+  "height": 1.365,
+  "stand": true
+ },
+ "haerun": {
+  "ball": [
+   0.0279,
+   0.0,
+   0.5674
+  ],
+  "impactFrame": 62.9,
+  "topFrame": 49,
+  "finishFrame": 95,
+  "frames": 143,
+  "fps": 60,
+  "take": "64_09",
+  "clubLength": 0.692,
+  "style": "chibi",
+  "height": 1.365,
+  "stand": true
+ },
+ "hyozoo": {
+  "ball": [
+   0.0143,
+   0.0,
+   0.5786
+  ],
+  "impactFrame": 62.987,
+  "topFrame": 49,
+  "finishFrame": 93,
+  "frames": 141,
+  "fps": 60,
+  "take": "64_10",
+  "clubLength": 0.695,
+  "style": "chibi",
+  "height": 1.344,
+  "stand": true
+ },
+ "yamashot": {
+  "ball": [
+   0.0664,
+   0.0,
+   0.5585
+  ],
+  "impactFrame": 63.169,
+  "topFrame": 49,
+  "finishFrame": 98,
+  "frames": 147,
+  "fps": 60,
+  "take": "64_01",
+  "clubLength": 0.652,
+  "style": "chibi",
+  "height": 1.302,
+  "stand": true
+ },
+ "rowning": {
+  "ball": [
+   0.0221,
+   0.0,
+   0.5868
+  ],
+  "impactFrame": 63.162,
+  "topFrame": 49,
+  "finishFrame": 93,
+  "frames": 142,
+  "fps": 60,
+  "take": "64_05",
+  "clubLength": 0.717,
+  "style": "chibi",
+  "height": 1.4,
+  "stand": true
+ },
+ "wood": {
+  "ball": [
+   0.077,
+   0.0,
+   0.5805
+  ],
+  "impactFrame": 62.949,
+  "topFrame": 49,
+  "finishFrame": 97,
+  "frames": 146,
+  "fps": 60,
+  "take": "64_06",
+  "clubLength": 0.718,
+  "style": "chibi",
+  "height": 1.4,
+  "stand": true
+ },
+ "hole": {
+  "ball": [
+   0.039,
+   0.0,
+   0.586
+  ],
+  "impactFrame": 62.959,
+  "topFrame": 49,
+  "finishFrame": 97,
+  "frames": 146,
+  "fps": 60,
+  "take": "64_07",
+  "clubLength": 0.701,
+  "style": "chibi",
+  "height": 1.386,
+  "stand": true
+ },
+ "sayyoung": {
+  "ball": [
+   0.0535,
+   0.0,
+   0.57
+  ],
+  "impactFrame": 63.067,
+  "topFrame": 49,
+  "finishFrame": 96,
+  "frames": 145,
+  "fps": 60,
+  "take": "64_08",
+  "clubLength": 0.693,
+  "style": "chibi",
+  "height": 1.365,
+  "stand": true
+ },
+ "greens": {
+  "ball": [
+   0.0279,
+   0.0,
+   0.5674
+  ],
+  "impactFrame": 62.9,
+  "topFrame": 49,
+  "finishFrame": 95,
+  "frames": 143,
+  "fps": 60,
+  "take": "64_09",
+  "clubLength": 0.692,
+  "style": "chibi",
+  "height": 1.365,
+  "stand": true
+ }
+}

@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="referrer" content="no-referrer" />
+    <title>OneShotGolf</title>
+  </head>
+  <body style="margin: 0; background: #1a1238">
+    <script>
+      // Google이 ?code&state(또는 ?error)를 붙여 이 페이지로 돌려보낸다.
+      // 결과를 sessionStorage에 넘기고, 코드가 방문 기록에 남지 않게 replace로 게임에 돌아간다. 검증은 게임(google.js)이 한다.
+      (function () {
+        var q = new URLSearchParams(location.search);
+        try {
+          sessionStorage.setItem('oneshotgolf.google.result', JSON.stringify({ code: q.get('code'), state: q.get('state'), error: q.get('error') }));
+        } catch (e) {}
+        location.replace('./');
+      })();
+    </script>
+  </body>
+</html>

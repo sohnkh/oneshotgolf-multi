@@ -1,0 +1,342 @@
+{
+ "chorda": {
+  "ball": [
+   0.0385,
+   0.0,
+   0.4098
+  ],
+  "impactFrame": 62.998,
+  "topFrame": 49,
+  "finishFrame": 97,
+  "frames": 146,
+  "fps": 60,
+  "take": "64_07",
+  "clubLength": 0.432,
+  "style": "ba",
+  "height": 1.076,
+  "stand": true
+ },
+ "shuffler": {
+  "ball": [
+   0.0619,
+   0.0,
+   0.4152
+  ],
+  "impactFrame": 63.138,
+  "topFrame": 49,
+  "finishFrame": 98,
+  "frames": 147,
+  "fps": 60,
+  "take": "64_01",
+  "clubLength": 0.422,
+  "style": "ba",
+  "height": 1.117,
+  "stand": true
+ },
+ "mcilboy": {
+  "ball": [
+   0.0325,
+   0.0,
+   0.3958
+  ],
+  "impactFrame": 63.141,
+  "topFrame": 49,
+  "finishFrame": 93,
+  "frames": 142,
+  "fps": 60,
+  "take": "64_05",
+  "clubLength": 0.416,
+  "style": "ba",
+  "height": 1.084,
+  "stand": true
+ },
+ "youngster": {
+  "ball": [
+   0.067,
+   0.0,
+   0.4108
+  ],
+  "impactFrame": 62.901,
+  "topFrame": 49,
+  "finishFrame": 97,
+  "frames": 146,
+  "fps": 60,
+  "take": "64_06",
+  "clubLength": 0.448,
+  "style": "ba",
+  "height": 1.14,
+  "stand": true
+ },
+ "fitzpatch": {
+  "ball": [
+   0.0387,
+   0.0,
+   0.4037
+  ],
+  "impactFrame": 62.933,
+  "topFrame": 49,
+  "finishFrame": 97,
+  "frames": 146,
+  "fps": 60,
+  "take": "64_07",
+  "clubLength": 0.415,
+  "style": "ba",
+  "height": 1.1,
+  "stand": true
+ },
+ "windy": {
+  "ball": [
+   0.0528,
+   0.0,
+   0.4044
+  ],
+  "impactFrame": 63.042,
+  "topFrame": 49,
+  "finishFrame": 96,
+  "frames": 145,
+  "fps": 60,
+  "take": "64_08",
+  "clubLength": 0.427,
+  "style": "ba",
+  "height": 1.117,
+  "stand": true
+ },
+ "hendly": {
+  "ball": [
+   0.0339,
+   0.0,
+   0.3967
+  ],
+  "impactFrame": 62.879,
+  "topFrame": 49,
+  "finishFrame": 95,
+  "frames": 143,
+  "fps": 60,
+  "take": "64_09",
+  "clubLength": 0.415,
+  "style": "ba",
+  "height": 1.1,
+  "stand": true
+ },
+ "gotterupp": {
+  "ball": [
+   0.0268,
+   0.0,
+   0.4183
+  ],
+  "impactFrame": 62.969,
+  "topFrame": 49,
+  "finishFrame": 93,
+  "frames": 141,
+  "fps": 60,
+  "take": "64_10",
+  "clubLength": 0.438,
+  "style": "ba",
+  "height": 1.117,
+  "stand": true
+ },
+ "burnz": {
+  "ball": [
+   0.0573,
+   0.0,
+   0.4091
+  ],
+  "impactFrame": 63.131,
+  "topFrame": 49,
+  "finishFrame": 98,
+  "frames": 147,
+  "fps": 60,
+  "take": "64_01",
+  "clubLength": 0.414,
+  "style": "ba",
+  "height": 1.1,
+  "stand": true
+ },
+ "fleetfoot": {
+  "ball": [
+   0.0293,
+   0.0,
+   0.4005
+  ],
+  "impactFrame": 63.138,
+  "topFrame": 49,
+  "finishFrame": 93,
+  "frames": 142,
+  "fps": 60,
+  "take": "64_05",
+  "clubLength": 0.42,
+  "style": "ba",
+  "height": 1.1,
+  "stand": true
+ },
+ "shuffleay": {
+  "ball": [
+   0.0632,
+   0.0,
+   0.3989
+  ],
+  "impactFrame": 62.897,
+  "topFrame": 49,
+  "finishFrame": 97,
+  "frames": 146,
+  "fps": 60,
+  "take": "64_06",
+  "clubLength": 0.425,
+  "style": "ba",
+  "height": 1.107,
+  "stand": true
+ },
+ "titicool": {
+  "ball": [
+   0.0496,
+   0.0,
+   0.3918
+  ],
+  "impactFrame": 63.108,
+  "topFrame": 49,
+  "finishFrame": 96,
+  "frames": 145,
+  "fps": 60,
+  "take": "64_08",
+  "clubLength": 0.423,
+  "style": "ba",
+  "height": 1.044,
+  "stand": true
+ },
+ "haerun": {
+  "ball": [
+   0.0347,
+   0.0,
+   0.3911
+  ],
+  "impactFrame": 62.957,
+  "topFrame": 49,
+  "finishFrame": 95,
+  "frames": 143,
+  "fps": 60,
+  "take": "64_09",
+  "clubLength": 0.42,
+  "style": "ba",
+  "height": 1.044,
+  "stand": true
+ },
+ "hyozoo": {
+  "ball": [
+   0.0244,
+   0.0,
+   0.402
+  ],
+  "impactFrame": 63.026,
+  "topFrame": 49,
+  "finishFrame": 93,
+  "frames": 141,
+  "fps": 60,
+  "take": "64_10",
+  "clubLength": 0.433,
+  "style": "ba",
+  "height": 1.035,
+  "stand": true
+ },
+ "yamashot": {
+  "ball": [
+   0.0571,
+   0.0,
+   0.3944
+  ],
+  "impactFrame": 63.223,
+  "topFrame": 49,
+  "finishFrame": 98,
+  "frames": 147,
+  "fps": 60,
+  "take": "64_01",
+  "clubLength": 0.407,
+  "style": "ba",
+  "height": 1.015,
+  "stand": true
+ },
+ "rowning": {
+  "ball": [
+   0.0285,
+   0.0,
+   0.4007
+  ],
+  "impactFrame": 63.195,
+  "topFrame": 49,
+  "finishFrame": 93,
+  "frames": 142,
+  "fps": 60,
+  "take": "64_05",
+  "clubLength": 0.43,
+  "style": "ba",
+  "height": 1.06,
+  "stand": true
+ },
+ "wood": {
+  "ball": [
+   0.0628,
+   0.0,
+   0.3957
+  ],
+  "impactFrame": 62.982,
+  "topFrame": 49,
+  "finishFrame": 97,
+  "frames": 146,
+  "fps": 60,
+  "take": "64_06",
+  "clubLength": 0.431,
+  "style": "ba",
+  "height": 1.06,
+  "stand": true
+ },
+ "hole": {
+  "ball": [
+   0.0383,
+   0.0,
+   0.4016
+  ],
+  "impactFrame": 62.998,
+  "topFrame": 49,
+  "finishFrame": 97,
+  "frames": 146,
+  "fps": 60,
+  "take": "64_07",
+  "clubLength": 0.421,
+  "style": "ba",
+  "height": 1.054,
+  "stand": true
+ },
+ "sayyoung": {
+  "ball": [
+   0.0496,
+   0.0,
+   0.3918
+  ],
+  "impactFrame": 63.108,
+  "topFrame": 49,
+  "finishFrame": 96,
+  "frames": 145,
+  "fps": 60,
+  "take": "64_08",
+  "clubLength": 0.423,
+  "style": "ba",
+  "height": 1.044,
+  "stand": true
+ },
+ "greens": {
+  "ball": [
+   0.0347,
+   0.0,
+   0.3911
+  ],
+  "impactFrame": 62.957,
+  "topFrame": 49,
+  "finishFrame": 95,
+  "frames": 143,
+  "fps": 60,
+  "take": "64_09",
+  "clubLength": 0.42,
+  "style": "ba",
+  "height": 1.044,
+  "stand": true
+ }
+}

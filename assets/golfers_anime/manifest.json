@@ -1,0 +1,36 @@
+{
+ "shuffler": {
+  "ball": [
+   0.1068,
+   0.0,
+   0.7559
+  ],
+  "impactFrame": 63.012,
+  "topFrame": 49,
+  "finishFrame": 98,
+  "frames": 147,
+  "fps": 60,
+  "take": "64_01",
+  "clubLength": 0.918,
+  "style": "anime",
+  "height": 1.792,
+  "stand": true
+ },
+ "chorda": {
+  "ball": [
+   0.0669,
+   0.0,
+   0.722
+  ],
+  "impactFrame": 62.891,
+  "topFrame": 49,
+  "finishFrame": 97,
+  "frames": 146,
+  "fps": 60,
+  "take": "64_07",
+  "clubLength": 0.898,
+  "style": "anime",
+  "height": 1.669,
+  "stand": true
+ }
+}

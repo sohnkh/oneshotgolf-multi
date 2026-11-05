@@ -1,0 +1,112 @@
+{
+ "chorda": {
+  "ball": [
+   0.0594,
+   0.0,
+   0.5076
+  ],
+  "impactFrame": 75.328,
+  "topFrame": 57,
+  "finishFrame": 99,
+  "frames": 148,
+  "fps": 60,
+  "take": "64_07",
+  "clubLength": 0.464,
+  "style": "gen",
+  "height": 1.119,
+  "stand": true,
+  "ponyHead": [
+   0.208,
+   0.207
+  ]
+ },
+ "shuffler": {
+  "ball": [
+   0.08,
+   0.0,
+   0.4477
+  ],
+  "impactFrame": 74.584,
+  "topFrame": 57,
+  "finishFrame": 99,
+  "frames": 148,
+  "fps": 60,
+  "take": "64_01",
+  "clubLength": 0.347,
+  "style": "gen",
+  "height": 1.161,
+  "stand": true
+ },
+ "mcilboy": {
+  "ball": [
+   0.0213,
+   0.0,
+   0.4271
+  ],
+  "impactFrame": 73.525,
+  "topFrame": 56,
+  "finishFrame": 93,
+  "frames": 142,
+  "fps": 60,
+  "take": "64_05",
+  "clubLength": 0.441,
+  "style": "gen",
+  "height": 1.127,
+  "stand": true
+ },
+ "titicool": {
+  "ball": [
+   0.0611,
+   0.0,
+   0.4259
+  ],
+  "impactFrame": 75.312,
+  "topFrame": 57,
+  "finishFrame": 98,
+  "frames": 147,
+  "fps": 60,
+  "take": "64_08",
+  "clubLength": 0.37,
+  "style": "gen",
+  "height": 1.086,
+  "stand": true,
+  "ponyHead": [
+   0.216,
+   0.24
+  ]
+ },
+ "woodz": {
+  "ball": [
+   0.1015,
+   0.0,
+   0.4758
+  ],
+  "impactFrame": 76.038,
+  "topFrame": 58,
+  "finishFrame": 100,
+  "frames": 149,
+  "fps": 60,
+  "take": "64_06",
+  "clubLength": 0.373,
+  "style": "gen",
+  "height": 1.171,
+  "stand": true
+ },
+ "pakseri": {
+  "ball": [
+   0.0386,
+   0.0,
+   0.4373
+  ],
+  "impactFrame": 76.561,
+  "topFrame": 58,
+  "finishFrame": 98,
+  "frames": 146,
+  "fps": 60,
+  "take": "64_09",
+  "clubLength": 0.488,
+  "style": "gen",
+  "height": 1.102,
+  "stand": true
+ }
+}

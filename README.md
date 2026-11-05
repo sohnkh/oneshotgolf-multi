@@ -1,1 +1,0 @@
-OneShotGolf multiplayer client deployment.
